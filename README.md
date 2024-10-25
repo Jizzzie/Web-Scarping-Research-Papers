@@ -1,4 +1,4 @@
-# Web-Scarping-Research-Papers
+# Web-Scraping-Research-Papers
 This program was built to assist in the data collection of various information about research papers published in IEEE and Google Scholar, which aimed to provide insights about growing trends in AI and Data Science. Explore that study in the following link:
 This program enables users to choose a subject and a storage path to automatically collect metadata of the research paper published by matching keywords in the description to the selected subject. It further categorizes the paper into various groups on the basis of the application field (Medicine, Physics, Engineering, etc) and technical field (Deep Learning, Statistics, Quantum Computing, Big Data Analytics, etc). 
 Web scrapping the paper collects other vital information like year of publication, title, description, Link, author(s), citation count, etc,
